@@ -1,0 +1,245 @@
+
+footer{
+    padding:20px;
+    margin-top: 20px;
+    color:white;
+    background-color: #35424a;
+    cursor: pointer;
+    padding-bottom: 50px;
+}
+footer .lastone
+{
+    display: block;
+    /* text-align: right; */
+     padding: 20px; 
+    text-decoration: none;
+    float: right;
+}
+li a:hover
+{
+   color: grey;
+   font-weight: bold;
+}
+li{
+    float: right;
+}
+ul{
+    /* 
+    list-style-type: none; */
+    overflow: hidden;
+}
+#message 
+{
+    background-color: #35424a;
+}
+#message .long
+{
+    height: 3cm;
+    width: 30%;
+    margin-bottom: 20px;
+}
+body{
+    background-color:azure;
+}
+#message h1
+{
+    color: white;
+    font-family:cursive;
+    font: italic;
+    text-align: center;
+}
+#message .details
+{
+    /* float: inline-start; */
+    position: relative;
+    text-align: center;
+}
+#message .sub
+{
+    position: relative;
+    height: 1.5cm;
+    width: 30%;
+    margin-bottom: 20px;
+}
+#message .name
+{
+    margin-bottom: 20px;
+    width: 25%;
+}
+#message .email
+{
+    margin-bottom: 20px;
+    width: 25%;
+}
+#message .last{
+  
+    float: none;
+    background-color: rgb(190, 82, 100);
+    border-radius: 0%;
+    border-style:ridge;
+    border-color: antiquewhite;
+}
+#number .events
+{
+    text-align: center;
+    font-size: 30px;
+    font-display:inherit;
+    font-family: serif ;
+    color: white;
+}
+#number
+{
+    text-align: center;
+    color: white;
+}
+#number .call
+{
+    color: white;
+    font-size: larger;
+    font-style: oblique;
+    font-family: sans-serif;
+}
+#number .no 
+{
+    font-size: 20px;
+}
+#number .anothername
+{
+    font-style: italic;
+    font: message-box;
+    font-size: 15px;
+}
+#makersof
+{
+    background-color: #35424a;
+    text-align: center;
+}
+
+#makersof .current
+{
+    height: 20px;
+    /* text-align: center; */
+    float: center;
+    color: rgb(5, 5, 5);
+    font-style:normal;
+    /* font-size: 40px; */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: rgb(167, 31, 54);
+}
+#box-wrapper .chocolate
+{
+    float: left;
+    /* color: aliceblue; */
+    height: 30%;
+    width: 20%;
+
+
+}
+#box-wrapper .choco{
+    text-align: left;
+    position: -50px -50px;
+    /* position: relative; */
+    color: white;
+}
+#box-wrapper .chocolate
+{
+    float: none;
+    text-align: center;
+    /* color: aliceblue; */
+    height: 10cm;
+    width: 20%;
+
+
+}
+#box-wrapper .vani
+{
+    float: left;
+    /* color: aliceblue; */
+    height: 30%;
+    width: 20%;
+
+
+
+}
+#box-wrapper .plain
+{
+    float: right;
+    text-align: center;
+    /* color: aliceblue; */
+    height: 10cm;
+    width: 20%;
+
+}
+#box-wrapper .red
+{
+    float: right;
+    text-align: center;
+    /* color: aliceblue; */
+    height: 10cm;
+    width: 20%;
+
+}
+#box-wrapper .whitee
+{
+    float: right;
+    text-align: center;
+    /* color: aliceblue; */
+    height: 10cm;
+    width: 20%;
+
+}
+/* #box-wrapper .images
+{
+    height: 30%;
+    width: 50;
+} */
+#box-wrapper
+{
+    background-color:#35424a;
+    height: 30%;
+    width: 100%
+}
+#showcase .first
+{
+    color: crimson;
+   
+    text-align: left;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.mid
+{
+    text-align: center;
+}
+#showcase .love
+{
+    color: crimson;
+    font-size: 2cm;
+    font:italic;
+    font-family: cursive;
+    text-align: center;
+}
+#showcase .esther
+{
+    text-align: center;
+}
+#showcase .current{
+    border: 15px 50px 30px 5px;
+    color: rgb(253, 253, 253);
+    background-color: rgb(223, 100, 125);
+    border-radius: 30%;
+    /* text-align: center; */
+}
+#showcase li{
+    float: right;
+    display: inline;
+    /* padding: top right bottom left */
+    /* padding: 0 20 0 20; */
+    padding-right: 10px;
+    padding-left: 20px;
+    /* margin-top: -5px; */
+    /* line-height: 10px; */
+    /* font-size: 10px; */
+    cursor:grabbing;
+}
